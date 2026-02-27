@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1768304404 source:d:\programe\ceas\main.cpp
+	<iostream>
+	<math.h>
+	<winbgim.h>
+	<ctime>
+	<string.h>
+	<time.h>
+	<mmsystem.h>
+
